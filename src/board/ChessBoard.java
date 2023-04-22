@@ -7,7 +7,7 @@ import pieces.*;
 
 
 /**
- * Responsible for managing the positions of all the pieces and board.Game state
+ * Responsible for managing the positions of all the pieces and Game state
  */
 public class ChessBoard {
     private final Piece[][] chessBoard = new Piece[8][8];

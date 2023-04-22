@@ -1,4 +1,4 @@
-package board;
+import board.ChessBoard;
 
 public class Game {
     public static void main(String[] args) {
