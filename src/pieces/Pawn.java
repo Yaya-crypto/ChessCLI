@@ -25,4 +25,8 @@ public class Pawn implements Piece {
     public String getDisplay() {
         return display;
     }
+    
+    public void moveForward(){
+        
+    }
 }
